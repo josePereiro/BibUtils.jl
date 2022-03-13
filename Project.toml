@@ -1,12 +1,12 @@
 name = "BibUtils"
 uuid = "769de9c1-ca9f-41ae-9e69-f7e27706da2c"
 authors = ["josePereiro <jose.pereiro.lab@gmail.com> and contributors"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
-BibTeX = "7b0aa2c9-049f-5cec-894a-2b6b781bb25e"
 OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
 StringRepFilter = "bfe2832f-5600-46d7-a449-140889a58637"
+BibTeX = "7b0aa2c9-049f-5cec-894a-2b6b781bb25e"
 
 [compat]
 julia = "1.6"
