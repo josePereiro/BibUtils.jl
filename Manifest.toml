@@ -1,2 +1,19 @@
 # This file is machine-generated - editing it directly is not advised
 
+julia_version = "1.7.0"
+manifest_format = "2.0"
+
+[[deps.BibTeX]]
+git-tree-sha1 = "e16505bdc7c0177d0a1709022d4ac41d51c5181d"
+uuid = "7b0aa2c9-049f-5cec-894a-2b6b781bb25e"
+version = "0.1.0"
+
+[[deps.OrderedCollections]]
+git-tree-sha1 = "85f8e6578bf1f9ee0d11e7bb1b1456435479d47c"
+uuid = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
+version = "1.4.1"
+
+[[deps.StringRepFilter]]
+git-tree-sha1 = "7b45972c9a3033fdf1b59a80fb089609e767932e"
+uuid = "bfe2832f-5600-46d7-a449-140889a58637"
+version = "0.2.0"

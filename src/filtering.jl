@@ -1,0 +1,1 @@
+filter_bibref(p, pr...) = filter_match(values(bibrefs()), p, pr...)
