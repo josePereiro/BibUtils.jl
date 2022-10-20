@@ -1,7 +1,8 @@
 # This file is machine-generated - editing it directly is not advised
 
-julia_version = "1.7.0"
+julia_version = "1.8.0"
 manifest_format = "2.0"
+project_hash = "4ace08d58b1ebd2fe45618570836191261f42454"
 
 [[deps.BibTeX]]
 git-tree-sha1 = "e16505bdc7c0177d0a1709022d4ac41d51c5181d"
